@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mnmlist on Addhana</title>
+    <link>/tags/mnmlist/</link>
+    <description>Recent content in mnmlist on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Micaela Ninni © {2020}</copyright>
+    <lastBuildDate>Wed, 18 Oct 2017 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/mnmlist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>123</title>
+      <link>/blog/3-123/</link>
+      <pubDate>Wed, 18 Oct 2017 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/3-123/</guid>
+      <description>It was a beautiful late summer afternoon, we were sitting on the porch, drinking mate drinking in Harrisonburg, the day we decided to live with less stuff. “We should be able to name everything we own” and so we settle on the quest to own 123 things. And although we don’t really keep track of the amount of things do think we been living with less things we normally did and made smarter shopping decisions when we had to make a 2-month apartment into a home.</description>
+    </item>
+    
+  </channel>
+</rss>

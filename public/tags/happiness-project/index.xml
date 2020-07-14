@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>happiness-project on Addhana</title>
+    <link>/tags/happiness-project/</link>
+    <description>Recent content in happiness-project on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Micaela Ninni © {2020}</copyright>
+    <lastBuildDate>Fri, 10 Jul 2020 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/happiness-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rules of Adulthood</title>
+      <link>/blog/my-rules-of-adulhood/</link>
+      <pubDate>Fri, 10 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/my-rules-of-adulhood/</guid>
+      <description>You do not rise to the level of your goals. You fall to the level of your systems.
+  Habits compound, meaning what you do every day matters more than what you do once in a while.
+  Never miss the same event/habit twice.
+  Don’t judge easily, you never know what the other person is going through.
+  Everything comes with time, so take the time and enjoy the journey.</description>
+    </item>
+    
+    <item>
+      <title>The Happiness Project</title>
+      <link>/blog/68-thp/</link>
+      <pubDate>Thu, 09 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/68-thp/</guid>
+      <description>Quarantine has been a rediscovery of Dan Harris and his 10% happier project. I’ve attended all his live meditations (while they were running), enrolled in the TPH app, and I’ve been listening to his podcast almost daily. His book (10% happier) was the first audiobook I listened to in the theme of meditation and Buddhism. I was living in Mexico, just recently started dating Ted and I was open to trying new ways to improve my life.</description>
+    </item>
+    
+  </channel>
+</rss>

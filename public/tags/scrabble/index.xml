@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrabble on Addhana</title>
+    <link>/tags/scrabble/</link>
+    <description>Recent content in scrabble on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Micaela Ninni © {2020}</copyright>
+    <lastBuildDate>Sun, 31 May 2020 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/scrabble/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bingo!</title>
+      <link>/blog/61-bingo/</link>
+      <pubDate>Sun, 31 May 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/61-bingo/</guid>
+      <description>As part of my (many) quarantine challenges, I started playing Scrabble last week.
+I’m not a natural. English is not my mother’s tongue and although I’ve always read a lot it was not until I had to sit for the GRE, and encountered the monstrous Verbal Section, that I made a conscious effort to expand my vocabulary.
+The bright side of this whole endeavor is that there’s lots of room for improvement 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

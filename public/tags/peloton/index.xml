@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peloton on Addhana</title>
+    <link>/tags/peloton/</link>
+    <description>Recent content in peloton on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Micaela Ninni © {2020}</copyright>
+    <lastBuildDate>Tue, 07 Jul 2020 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/peloton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peloton Challenge</title>
+      <link>/blog/66-pelotonchallenge/</link>
+      <pubDate>Tue, 07 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/66-pelotonchallenge/</guid>
+      <description>Moving to the States is exciting for several reasons: Christmases are going to be snowy, and Thanksgiving dinners will have turkey again. But most importantly the amazing world of online shopping will be at our feet and God I’m looking forward to it.
+With the COVID situation and the unsafeness associated with close contact activities, we decided the first purchase to be a peloton bike. But in order to make things a little bit more fun, we decided to add a small challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
