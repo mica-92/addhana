@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![books](/40-sesir.jpg)
+![books](/addhana/40-sesir.jpg)
 
 Aerēbassiks dāeremaa aōhon vȳs
 

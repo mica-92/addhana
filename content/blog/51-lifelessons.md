@@ -16,4 +16,4 @@ toc: true
 
 ### 3. When your motives are unclear, is always better not to act. They might became apparent when emotions have settled.
 
-![icecream](/51-lessons.png)
+![icecream](/addhana/51-lessons.png)

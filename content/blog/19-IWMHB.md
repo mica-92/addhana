@@ -9,7 +9,7 @@ tags: ["palta-journal", "reflexions", "books"]
 math: true
 toc: true
 ---
-![hair](/19-IWMHB.jpeg)
+![hair](/addhana/19-IWMHB.jpeg)
 
 <cite>page of ‘I Want my Hat back’ but Jon Klessen</cite>
 

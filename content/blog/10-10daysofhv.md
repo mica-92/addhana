@@ -21,4 +21,4 @@ Under this prospect a regular person would just go ‘F*@k it’ and close the l
 
 Anyway, as the natural enthusiast I am, now I’m more excited to learn Valyrian than ever before, and I’ll let you know how that went.
 
-![Valyria](/10-10daysofhv.jpg)
+![Valyria](/addhana/10-10daysofhv.jpg)

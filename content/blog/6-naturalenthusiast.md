@@ -9,7 +9,7 @@ tags: ["palta-journal", "experience", "Mexico"]
 math: true
 toc: true
 ---
-![Puerto Morales](/6-naturalenthusiast.jpg)
+![Puerto Morales](/addhana/6-naturalenthusiast.jpg)
 
 I’m a natural enthusiast. 
 

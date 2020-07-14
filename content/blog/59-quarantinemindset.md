@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![mn](/59-quarantinemindset.jpg)
+![mn](/addhana/59-quarantinemindset.jpg)
 
 For someone whose first thought in the morning is setting the intention for a mindful day (however that wants to manifest itself that day) I found it fascinating how my mind has been residing in imagination this past couple of weeks. My last post is living proof of that. This quarantine, and the incapacity for action I feel due to the confinement has got me into self-centered loops of thoughts with a pretty obvious theme: **wanting**. I get hooked in all the things I would like to have (and can’t), all the situations I would love to be in (and I’m not), and all the decisions that got me to where I am now (and wish they would have been otherwise). While reflecting upon this in my journal I came to some interesting meditations:
 

@@ -9,7 +9,7 @@ tags: ["palta-journal", "relationships", "Mexico"]
 math: true
 toc: true
 ---
-![Zebra](/24-mentalimage.jpeg)
+![Zebra](/addhana/24-mentalimage.jpeg)
 
 Time in Playa del Carmen is coming to an end. The next 10 days are fully occupied with traveling and DIY meditation retreats, so we decided take a day off and give one last visit technology-free visit of the year to our place in the world (La Zebra) .
 

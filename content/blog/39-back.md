@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![books](/39-back.jpg)
+![books](/addhana/39-back.jpg)
 
 I’m back! After a month almost of no updates, I decided (my followers, Ted, asked for it) to come back to blogging. Being in Argentina, these past weeks have been crazy with family meeting, friends to see, coffee shops to explore, studying to do, old photo albums to flip through, books to read, pinky foot toe to heal, habits to break. It also included my very first Thanksgiving celebration.
 

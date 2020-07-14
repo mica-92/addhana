@@ -9,7 +9,7 @@ tags: ["palta-journal", "lessons"]
 math: true
 toc: true
 ---
-![Driving through Meryland](/1-postbypost.png)
+![Driving through Meryland](/addhana/1-postbypost.png)
 
 <cite>“Writing a novel is like driving a car at night. You can only see as far as your headlights go, but you can make the whole trip that way”
 

@@ -9,7 +9,7 @@ tags: ["quarantine-journal", "poems", "photos"]
 math: true
 toc: true
 ---
-![fall](/44-fall.png)
+![fall](/addhana/44-fall.png)
 
 <h2>Leaves budge</h2>
 <h2>to the autumn zephyr </h2>

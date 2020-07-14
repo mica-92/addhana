@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![frankers](/48-TSWB.png)
+![frankers](/addhana/48-TSWB.png)
 
 This quarantine was all about happiness, self- improvement, and habits. Yesterday I officially completed Yale’s most popular class ever and my 2nd (actually 3rd) Coursera course during the COVID19 lock-down, The Science of Well-Being.
 

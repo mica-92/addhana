@@ -20,4 +20,4 @@ Yesterday for the first time since I started I came upon my first Bingo word (me
 
 It was a very joyful moment!
 
-![bingo](/61-bingo.png)
+![bingo](/addhana/61-bingo.png)

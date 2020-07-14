@@ -9,7 +9,7 @@ tags: ["palta-journal", "experience", "dukkha"]
 math: true
 toc: true
 ---
-![New York Subway](/7-past.jpeg)
+![New York Subway](/addhana/7-past.jpeg)
 
 It’s amazing how the past lingers with us, even when we try to push it away. How things that we worked so much on, in many cases convincing ourselves that we had made peace with them, can find us in the most unthought places triggered by the most unusual things, like a phrase on a blog post.
 

@@ -9,7 +9,7 @@ tags: ["palta-journal", "photos"]
 math: true
 toc: true
 ---
-![hair](/20-moon.jpeg)
+![hair](/addhana/20-moon.jpeg)
 
 <cite>Full Moon, Playa del Carmen</cite>
 

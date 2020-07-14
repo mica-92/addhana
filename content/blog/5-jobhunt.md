@@ -9,7 +9,7 @@ tags: ["palta-journal", "experience", "Mexico"]
 math: true
 toc: true
 ---
-![Me at the necklace stand](/5-jobhunt.jpg)
+![Me at the necklace stand](/addhana/5-jobhunt.jpg)
 
 After a couple months in low- season Playa del Carmen I came to the realization that life is harder than it seems. I never considered myself lucky with my past jobs (always grateful, never lucky) but after a month of trying to get a decent paycheck in Mexico I started believing I was. Being a full time student of an (yet) unfinished major for most of my adult life, working was never a top priority for me, so my past jobs were jobs that I performed to have some kind of personal income or to pay for that year’s vacation. It soon stroke me that in what I been considering ‘transit jobs’ got me the some amount of money in 2 shifts that what I was making here in 2 weeks.
 

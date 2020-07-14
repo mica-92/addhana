@@ -9,7 +9,7 @@ tags: ["palta-journal", "blogging", "reflexions"]
 math: true
 toc: true
 ---
-![New York Subway](/8-aweek.jpeg)
+![New York Subway](/addhana/8-aweek.jpeg)
 
 My first week of blogging is over and here are 7 highlights:
 

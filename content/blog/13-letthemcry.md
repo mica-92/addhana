@@ -9,7 +9,7 @@ tags: ["palta-journal", "reflexions", "dukkha"]
 math: true
 toc: true
 ---
-![drawing](/13-letthemcry.jpeg)
+![drawing](/addhana/13-letthemcry.jpeg)
 
 <cite>A perfect image of my mind today</cite>
 

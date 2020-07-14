@@ -18,4 +18,4 @@ My love-hate relationship with social media is well known, and I was a little re
 
 The degree was awesome (and I’m happy with the achievement) but it’s true what they say, everything is ten times better when shared.
 
-![nn](/65-reconnecting.png)
+![nn](/addhana/65-reconnecting.png)

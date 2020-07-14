@@ -14,7 +14,7 @@ toc: true
 
 > - Count Alexander Ilyich Rostov
 
-![bingo](/63-AGIM.jpg)
+![bingo]/addhana(/63-AGIM.jpg)
 
 *Hotel Metropol, Moscow, Russia (circa 1905). Source Wiki Commons*
 

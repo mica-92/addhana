@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![sky](/31-lastday.jpg)
+![sky](/addhana/31-lastday.jpg)
 
 Last day in this wonderful place with the most beautiful skies in the world.
 

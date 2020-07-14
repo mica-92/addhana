@@ -9,6 +9,6 @@ tags: ["palta-journal", "photos", "Mexico"]
 math: true
 toc: true
 ---
-![La Zabra](/11-lazebra.jpg)
+![La Zabra](/addhana/11-lazebra.jpg)
 
 <cite>La Zebra, Tulum</cite>

@@ -9,7 +9,7 @@ tags: ["palta-journal", "High-Valyrian"]
 math: true
 toc: true
 ---
-![HP7](/26-detroit.jpg)
+![HP7](/addhana/26-detroit.jpg)
 
 <cite>Day 100 – The other side is Canada</cite>
 

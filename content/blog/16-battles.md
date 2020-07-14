@@ -9,7 +9,7 @@ tags: ["palta-journal", "reflexions", "lessons"]
 math: true
 toc: true
 ---
-![hair](/16-battles.jpeg)
+![hair](/addhana/16-battles.jpeg)
 
 <cite>The Morning and I</cite>
 

@@ -9,7 +9,7 @@ tags: ["palta-journal", "favorites", "reflexions"]
 math: true
 toc: true
 ---
-![My flowers](/9-abucket.jpg)
+![My flowers](/addhana/9-abucket.jpg)
 
 ‘On Sundays the office is closed’ or so my boyfriend thought one of the first weekends we were at Playa del Carmen. I had woken up early to go to the market to buy groceries and such, when I saw a small stand were they were selling flowers; huge beautiful yellow, white, orange flowers. I thought flowers would make home a much cheerful place to work so I decided to buy flowers for my boyfriend. Got home, put them on a mason jar, wrote a small note and headed to work.
 
