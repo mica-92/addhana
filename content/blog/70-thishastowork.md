@@ -15,4 +15,4 @@ For 7 days I've tried to create the blog that would make me happy. I know that d
 
 <h2>Please Hugo help me!!</h2>
 
-![hugo](/70-hugo.jpg)
+![hugo](/addhana/70-hugo.jpg)
