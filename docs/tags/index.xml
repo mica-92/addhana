@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://mica-92.github.io/addhana/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>blog</title>
+      <link>https://mica-92.github.io/addhana/tags/blog/</link>
+      <pubDate>Tue, 14 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://mica-92.github.io/addhana/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>favorites</title>
       <link>https://mica-92.github.io/addhana/tags/favorites/</link>
-      <pubDate>Fri, 10 Jul 2020 09:19:29 -0400</pubDate>
+      <pubDate>Tue, 14 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://mica-92.github.io/addhana/tags/favorites/</guid>
       <description></description>
@@ -24,9 +33,18 @@
     <item>
       <title>happiness-project</title>
       <link>https://mica-92.github.io/addhana/tags/happiness-project/</link>
-      <pubDate>Fri, 10 Jul 2020 09:19:29 -0400</pubDate>
+      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://mica-92.github.io/addhana/tags/happiness-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://mica-92.github.io/addhana/tags/home/</link>
+      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://mica-92.github.io/addhana/tags/home/</guid>
       <description></description>
     </item>
     

@@ -1,18 +1,22 @@
 ---
-title: "A prayer to the HUGO Gods"
-date: 2020-07-10T09:19:29-04:00
-slug: "69-adulthood"
+title: "A Prayer"
+date: 2020-07-14T09:19:29-04:00
+slug: "70-aprayer"
 description: "a prayer"
 keywords: ["blog", "hugo"]
 draft: false
-tags: ["happiness-project", "lessons", "favorites", "lists"]
+tags: ["blog", "favorites"]
 
 math: false
 toc: true
 ---
 
-During the last 7 days I've been avocating mi tried to create the blog that would make me happy. I know that day is today. This is a prayer to the HUGO-Gods that after all the time and investment, this website is now going to be able to be posted in github. 
+For a sennight, I've been working hard to design the blog I wanted. And deep down I know that day is today that website is going to be deployed into the world-wide-web. 
 
-<h2>Please Hugo help me!!</h2>
+This is an orison to the HUGO-Gods. All this work is not to be in vain. A command shall appear before I and addhana will go live.
+
+<h2>So please almighty-HUGO, listen to this prayer, and provide the solution to this predicament.<>
 
 ![hugo](/addhana/70-hugo.jpg)
+
+*update - It worked*
