@@ -1,5 +1,5 @@
 ---
-title: "A prayer to the hugo gods"
+title: "A prayer to the HUGO Gods"
 date: 2020-07-10T09:19:29-04:00
 slug: "69-adulthood"
 description: "a prayer"
@@ -11,7 +11,7 @@ math: false
 toc: true
 ---
 
-For 7 days I've tried to create the blog that would make me happy. I know that day is today. This is a prayer to the HUGO-Gods that after all the time and investment, this website is now going to be able to be posted in github. 
+During the last 7 days I've been avocating mi tried to create the blog that would make me happy. I know that day is today. This is a prayer to the HUGO-Gods that after all the time and investment, this website is now going to be able to be posted in github. 
 
 <h2>Please Hugo help me!!</h2>
 
