@@ -12,7 +12,7 @@ copyright = "Micaela Ninni © {2020}"
 publishDir = "docs"
 
 # Add your Disqus shortname here.
-disqusShortname = "addhana"
+# disqusShortname = "addhana"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
