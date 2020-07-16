@@ -15,7 +15,7 @@ For a sennight, I've been working hard to design the blog I wanted. And deep dow
 
 This is an orison to the HUGO-Gods. All this work is not to be in vain. A command shall appear before I and addhana will go live.
 
-<h2>So please almighty-HUGO, listen to this prayer, and provide the solution to this predicament.<>
+<h2>So please almighty-HUGO, listen to this prayer, and provide the solution to this predicament.</h2>
 
 ![hugo](/addhana/70-hugo.jpg)
 
