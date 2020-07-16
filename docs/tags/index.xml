@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addahna.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>habits</title>
+      <link>https://addahna.com/tags/habits/</link>
+      <pubDate>Thu, 16 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happiness-project</title>
+      <link>https://addahna.com/tags/happiness-project/</link>
+      <pubDate>Thu, 16 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/happiness-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wellbeing</title>
+      <link>https://addahna.com/tags/wellbeing/</link>
+      <pubDate>Thu, 16 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/wellbeing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>books</title>
@@ -22,38 +49,11 @@
     </item>
     
     <item>
-      <title>habits</title>
-      <link>https://addahna.com/tags/habits/</link>
-      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/habits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>happiness-project</title>
-      <link>https://addahna.com/tags/happiness-project/</link>
-      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/happiness-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>review</title>
       <link>https://addahna.com/tags/review/</link>
       <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addahna.com/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wellbeing</title>
-      <link>https://addahna.com/tags/wellbeing/</link>
-      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/wellbeing/</guid>
       <description></description>
     </item>
     
