@@ -1,6 +1,6 @@
 ---
 title: "#0.5 Healthy habits"
-date: 2020-07-15T09:19:29-04:00
+date: 2020-07-16T09:19:29-04:00
 slug: "73-healthy habits"
 description: "THP"
 keywords: ["home", "happiness"]
