@@ -10,6 +10,6 @@ math: true
 toc: true
 ---
 
-![38-caferegistrado](/addhana/38-caferegistrado.jpg)
+![38-caferegistrado](/38-caferegistrado.jpg)
 
 ✔️ best scrambled eggs in Buenos Aires

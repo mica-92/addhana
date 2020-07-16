@@ -9,7 +9,7 @@ tags: ["palta-journal", "Photos", "quote"]
 math: true
 toc: true
 ---
-![WindGiants](/addhana/27-windgiants.jpg)
+![WindGiants](/27-windgiants.jpg)
 
  
 

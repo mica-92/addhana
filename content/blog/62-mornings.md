@@ -12,4 +12,4 @@ toc: true
 
 <h2>… Morning visitors ☀️</h2>
 
-![bingo](/addhana/62-mornings.png)
+![bingo](/62-mornings.png)

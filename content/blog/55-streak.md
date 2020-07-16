@@ -11,5 +11,5 @@ toc: true
 ---
 <h2>Postcards from the cushion</h2>
 
-![54-TEIAP](/addhana/55-streak.png)
+![54-TEIAP](/55-streak.png)
 

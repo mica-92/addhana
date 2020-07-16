@@ -9,7 +9,7 @@ tags: ["palta-journal", "relationships", "favorites"]
 math: true
 toc: true
 ---
-![DFD](/addhana/12-today.jpeg)
+![DFD](/12-today.jpeg)
 
 <cite>Downward facing dog?</cite>
 

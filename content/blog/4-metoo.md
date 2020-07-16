@@ -9,7 +9,7 @@ tags: ["palta-journal", "favorites", "relationships"]
 math: true
 toc: true
 ---
-![Random Statue NY - 2014](/addhana/4-metoo.jpg)
+![Random Statue NY - 2014](/4-metoo.jpg)
 
 Every night when I go to bed I kiss my boyfriend goodnight, look at him in the eyes and tell him ‘I love you, baby’, After what follows complete silence.
 

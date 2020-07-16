@@ -9,7 +9,7 @@ tags: ["palta-journal", "reflexions", "relationships"]
 math: true
 toc: true
 ---
-![drawing](/addhana/14-togetherness.jpeg)
+![drawing](/14-togetherness.jpeg)
 
 <cite>The Moment</cite>
 

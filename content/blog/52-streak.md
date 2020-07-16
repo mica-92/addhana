@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![streak](/addhana/52-streak.png)
+![streak](/52-streak.png)
 
 <h2> … and 5 thoughts on intermittent fasting (IF)</h2>
 

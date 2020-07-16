@@ -1,5 +1,5 @@
 ---
-title: "Rules of Adulthood, updated"
+title: "Lessons learned in (Young)-adulthood, updated"
 date: 2020-07-10T09:19:29-04:00
 slug: "69-rules"
 description: "The happiness project- rules of adulhood"

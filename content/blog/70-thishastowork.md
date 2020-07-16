@@ -17,6 +17,6 @@ This is an orison to the HUGO-Gods. All this work is not to be in vain. A comman
 
 <h2>So please almighty-HUGO, listen to this prayer, and provide the solution to this predicament.</h2>
 
-![hugo](/addhana/70-hugo.jpg)
+![hugo](/70-hugo.jpg)
 
 *update - It worked*

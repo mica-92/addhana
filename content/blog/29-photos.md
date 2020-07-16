@@ -9,7 +9,7 @@ tags: ["palta-journal", "Photos"]
 math: true
 toc: true
 ---
-![8mile](/addhana/29-photos.jpg)
+![8mile](/29-photos.jpg)
 
 The organization of my digital life just took a new level, I just started organizing my Google Photos website. I was always a little obsessed with photographs and not wanting to lose them so, it hurts to know all those pictures I lost from my teen years when cellphones and digital cameras just started, backups where a tedious thing and only god knows where those pictures are but I have a decent collection starting 2009 and from my early childhood (thanks mum).
 

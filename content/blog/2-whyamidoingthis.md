@@ -10,7 +10,7 @@ math: true
 toc: true
 ---
 
-![Time Capsule](/addhana/2-whyamidoingthis.jpg)
+![Time Capsule](/2-whyamidoingthis.jpg)
 
 
 Why am I writing a post a day? I think the best definition I could find was:

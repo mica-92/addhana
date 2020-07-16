@@ -11,7 +11,7 @@ toc: true
 ---
 <h2>then and now</h2>
 
-![54-TEIAP](/addhana/56-pandiculations.png)
+![54-TEIAP](/56-pandiculations.png)
 
 > 2017 – No formal yoga practice and obviously not scared of touching the floor in a random place in Mexico
 

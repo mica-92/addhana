@@ -17,7 +17,7 @@ In his podcast, Dan interviews different meditation teachers, health professiona
 
 Considering all the books, MOOCs, and crazy new habits I’ve undertaken during the quarantine, I guessed it would be fun to create my version of the happiness project. My project will have fewer categories and I’ll focus 2 weeks on each subject to select the habits that work best for me and it will be a great way to merge it with my Peloton challenge. 
 
-So for the next couple of days, I’ll be posting the different categories with the habits and books I’m planning on reading about each subject. Following Gretchen’s scheme to I’ll create my own set of **Commandments**, principles that will help me as I struggle through my resolutions, and a **Secrets of Young-adulthood**, lessons I’d learned with some difficulty in this 27 years of existence.
+So for the next couple of days, I’ll be posting the different categories with the habits and books I’m planning on reading about each subject. Following Gretchen’s scheme to I’ll create my own set of <a href="https://addhana.com/blog/69-rules/">**Lessons learned in (Young)-adulthood**</a>, lessons I’d learned with some difficulty in this 27 years of existence.
 
 All blog-posts will be under the Happiness Project tag.
 

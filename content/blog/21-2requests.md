@@ -9,7 +9,7 @@ tags: ["palta-journal", "photos", "relationships"]
 math: true
 toc: true
 ---
-![hair](/addhana/21-2requests.jpeg)
+![hair](/21-2requests.jpeg)
 
 <cite>Me</cite>
 

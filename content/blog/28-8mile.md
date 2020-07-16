@@ -9,7 +9,7 @@ tags: ["palta-journal", "Photos"]
 math: true
 toc: true
 ---
-![8mile](/addhana/28-8mile.jpg)
+![8mile](/28-8mile.jpg)
 
 8 mile
 

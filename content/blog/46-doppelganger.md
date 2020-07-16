@@ -14,6 +14,6 @@ Recent <a href= https://www.discovermagazine.com/planet-earth/dogs-and-their-own
 
 Every morning after watching my little Buddha contemplate the Truth of impermanence from his favorite spot in the balcony, I wonder if the opposite can be true.
 
-![frankers](/addhana/46-doppelganger.jpg)
+![frankers](/46-doppelganger.jpg)
 
 <cite>April 21st, Colegiales, Argentina
