@@ -65,17 +65,17 @@ publishDir = "docs"
   title = "Blog"
   url = "/blog"
 
-[[menu.main]]
-  identifier = "quotes"
-  name = "quotes"
-  title = "Quotes"
-  url = "/quote/quotes/"
+## [[menu.main]]
+  ## identifier = "quotes"
+  ## name = "quotes"
+  ## title = "Quotes"
+  ## url = "/quote/quotes/"
 
-[[menu.main]]
-  identifier = "mementos"
-  name = "mementos"
-  title = "mementos"
-  url = "/photo/mementos/"
+## [[menu.main]]
+  ## identifier = "mementos"
+  ## name = "mementos"
+  ## title = "mementos"
+  ## url = "/photo/mementos/"
 
 
 

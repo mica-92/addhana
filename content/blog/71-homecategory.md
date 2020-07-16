@@ -5,7 +5,7 @@ slug: "71-homeclutter"
 description: "THP"
 keywords: ["home", "happiness"]
 draft: false
-tags: ["happiness-project", "home"]
+tags: ["happiness-project", "home", "habits"]
 
 math: false
 toc: true

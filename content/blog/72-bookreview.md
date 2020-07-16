@@ -1,5 +1,5 @@
 ---
-title: "The Happiness Proyect - Review"
+title: "The Happiness Project - Review"
 date: 2020-07-15T09:19:29-04:00
 slug: "72-reviewthp"
 description: "THP"
