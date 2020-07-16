@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein</title>
-      <link>https://addahna.com/quotes/rich-text/</link>
+      <title>A repository for photos</title>
+      <link>https://addahna.com/photo/mementos/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://addahna.com/quotes/rich-text/</guid>
-      <description></description>
+      <guid>https://addahna.com/photo/mementos/</guid>
+      <description>|||| ||||</description>
+    </item>
+    
+    <item>
+      <title>A repository for Quotes</title>
+      <link>https://addahna.com/quote/quotes/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://addahna.com/quote/quotes/</guid>
+      <description>Life is like riding a bicycle. To keep your balance, you must keep moving. - Albert Einstein</description>
     </item>
     
   </channel>

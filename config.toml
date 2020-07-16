@@ -69,8 +69,13 @@ publishDir = "docs"
   identifier = "quotes"
   name = "quotes"
   title = "Quotes"
-  url = "/quotes"
+  url = "/quote/quotes/"
 
+[[menu.main]]
+  identifier = "mementos"
+  name = "mementos"
+  title = "mementos"
+  url = "/photo/mementos/"
 
 
 
