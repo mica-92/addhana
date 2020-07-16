@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://mica-92.github.io/addhana/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>books</title>
+      <link>https://mica-92.github.io/addhana/tags/books/</link>
+      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://mica-92.github.io/addhana/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happiness-project</title>
+      <link>https://mica-92.github.io/addhana/tags/happiness-project/</link>
+      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://mica-92.github.io/addhana/tags/happiness-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://mica-92.github.io/addhana/tags/review/</link>
+      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://mica-92.github.io/addhana/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blog</title>
@@ -31,38 +58,11 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>https://mica-92.github.io/addhana/tags/books/</link>
-      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://mica-92.github.io/addhana/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>happiness-project</title>
-      <link>https://mica-92.github.io/addhana/tags/happiness-project/</link>
-      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://mica-92.github.io/addhana/tags/happiness-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>home</title>
       <link>https://mica-92.github.io/addhana/tags/home/</link>
       <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://mica-92.github.io/addhana/tags/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://mica-92.github.io/addhana/tags/review/</link>
-      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://mica-92.github.io/addhana/tags/review/</guid>
       <description></description>
     </item>
     
@@ -148,11 +148,11 @@
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>https://mica-92.github.io/addhana/tags/shortcodes/</link>
+      <title>quotes</title>
+      <link>https://mica-92.github.io/addhana/tags/quotes/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mica-92.github.io/addhana/tags/shortcodes/</guid>
+      <guid>https://mica-92.github.io/addhana/tags/quotes/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,12 @@
 {{ $currentPage := . }}
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/partials/subscribe.scss") }}
+{{ end }}
 
 
 <div class="subscribe-option">
-  <p class="paragraph"> <form action="https://formspree.io/xbjzplpb" method="POST">
-      Subscribe
-    <input class="input-email" type="email" name="_replyto">
-    <input type="submit" value="Send" color=red>
-  </form></p>
+  <p class="paragraph"> <form action="https://formspree.io/xbjzplpb" method="POST"></p>
+      <input class="email" type="email" name="_replyto" placeholder="subscribe">
+      <input type="submit" value="send">
+  </form>
+</div>
