@@ -1,7 +1,7 @@
 ---
-title: "Rules of Adulthood"
+title: "Rules of Adulthood, updated"
 date: 2020-07-10T09:19:29-04:00
-slug: "My rules of adulhood"
+slug: "69-rules"
 description: "The happiness project- rules of adulhood"
 keywords: ["happiness", "hugo", "go", "blog"]
 draft: false
@@ -36,3 +36,11 @@ toc: true
 * Be aware of black-holes, you have an obsessive personality.
 
 * Don’t let the perfect be the enemy of the good.
+
+* Not all battles are worth fighting for, choose wisely.
+
+* Bring people together.
+
+* Always read as you would have to explain it.
+
+**last update July 14th, 2020**
