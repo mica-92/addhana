@@ -7,7 +7,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Addhana"
 languageCode = "en-us"
-baseURL = "https://mica-92.github.io/addhana/"
+baseURL = "https://addahna.com"
 copyright = "Micaela Ninni © {2020}"
 publishDir = "docs"
 
