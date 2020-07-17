@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addahna.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>books</title>
+      <link>https://addahna.com/tags/books/</link>
+      <pubDate>Fri, 17 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happiness-project</title>
+      <link>https://addahna.com/tags/happiness-project/</link>
+      <pubDate>Fri, 17 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/happiness-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://addahna.com/tags/home/</link>
+      <pubDate>Fri, 17 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addahna.com/tags/home/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>habits</title>
@@ -22,29 +49,11 @@
     </item>
     
     <item>
-      <title>happiness-project</title>
-      <link>https://addahna.com/tags/happiness-project/</link>
-      <pubDate>Thu, 16 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/happiness-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>wellbeing</title>
       <link>https://addahna.com/tags/wellbeing/</link>
       <pubDate>Thu, 16 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addahna.com/tags/wellbeing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://addahna.com/tags/books/</link>
-      <pubDate>Wed, 15 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/books/</guid>
       <description></description>
     </item>
     
@@ -72,15 +81,6 @@
       <pubDate>Tue, 14 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addahna.com/tags/favorites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>https://addahna.com/tags/home/</link>
-      <pubDate>Mon, 13 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addahna.com/tags/home/</guid>
       <description></description>
     </item>
     
