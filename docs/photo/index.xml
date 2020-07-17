@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Addhana</title>
-    <link>https://addahna.com/photo/</link>
+    <link>https://addhana.com/photo/</link>
     <description>Recent content in Photos on Addhana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
     <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://addahna.com/photo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://addhana.com/photo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A repository for photos</title>
-      <link>https://addahna.com/photo/mementos/</link>
+      <link>https://addhana.com/photo/mementos/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://addahna.com/photo/mementos/</guid>
+      <guid>https://addhana.com/photo/mementos/</guid>
       <description>|||| ||||</description>
     </item>
     
