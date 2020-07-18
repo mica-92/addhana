@@ -11,7 +11,9 @@ math: false
 toc: true
 ---
 
-Moving is an imminent fact, and therefore the "home & clutter" category seemed a great place to start my happiness project. Moving is not a minor activity, research cited it as the most stressful life events. But we run with an advantage, we are moving to a completely different country, time zone, and hemisphere, so decluttering and picking up the essentials is a top priority. But apart from the physical objects, because we won't be living in Argentina for the next 4 years taking care of the emotional aspect is also tectonic.
+Moving is an imminent fact, and therefore the "home & clutter" category seemed a great place to start my happiness project. Moving is not a minor activity, <a href= "https://www.bustle.com/p/moving-is-one-of-the-most-stressful-life-events-a-new-study-says-but-here-are-7-ways-to-make-it-suck-less-11832166">research</a> cites it as the most stressful life event. Nonetheless, we run with an advantage. As we are moving to a completely different country, time zone, and hemisphere, we trully need to declutter and take only the essentials.
+
+Apart from the physical objects, taking care of the emotional aspect is also tectonic because we won't be living in Argentina for the next 4 years.
 
 The time allocated for this endeavor is 3 weeks. 
 

@@ -16,7 +16,7 @@ toc: true
 
 > *It simply just happens*
 
-> *Sometimes we do look for it a little bit under some random rocks we encounter in our journey*
+> *Sometimes we do look for it a little bit under some random rocks we encounter in our journey.*
 
 > *I treasure being in love because it brings the best out of you. Is not that is not you when you are on love, but it’s a better version of you.*
 
