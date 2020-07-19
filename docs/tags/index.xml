@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 07:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>home</title>
+      <link>https://addhana.com/tags/home/</link>
+      <pubDate>Sun, 19 Jul 2020 07:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://addhana.com/tags/quotes/</link>
+      <pubDate>Sat, 18 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://addhana.com/tags/travel/</link>
+      <pubDate>Sat, 18 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USA</title>
+      <link>https://addhana.com/tags/usa/</link>
+      <pubDate>Sat, 18 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/usa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>books</title>
@@ -27,15 +63,6 @@
       <pubDate>Fri, 17 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/happiness-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>https://addhana.com/tags/home/</link>
-      <pubDate>Fri, 17 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/home/</guid>
       <description></description>
     </item>
     
@@ -153,15 +180,6 @@
       <pubDate>Sat, 27 Jun 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quotes</title>
-      <link>https://addhana.com/tags/quotes/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://addhana.com/tags/quotes/</guid>
       <description></description>
     </item>
     

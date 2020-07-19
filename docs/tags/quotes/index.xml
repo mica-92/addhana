@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>San Francisco and Twain</title>
+      <link>https://addhana.com/blog/sfand-twain/</link>
+      <pubDate>Sat, 18 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/sfand-twain/</guid>
+      <description> “The coldest winter I ever spent was a summer in San Francisco.”
+   Mark Twain   A year ago</description>
+    </item>
     
     <item>
       <title>A repository for photos</title>
