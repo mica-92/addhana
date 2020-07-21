@@ -5,7 +5,7 @@ slug: "ted-and-joe"
 description: "THP"
 keywords: ["USA", "Ted"]
 draft: false
-tags: ["home", ]
+tags: ["USA", "Ted"]
 
 math: false
 toc: true
@@ -16,7 +16,8 @@ For the last year or so I've been witnessing the unfolding of the United States'
 Ted is very happy about this fact. Although it would have never been his (or probably anybody's) first choice, he seriously believes Biden is the one that will defeat Trump in November. He made a bet back in April when Biden was falling to Trump in the polls, and now according to every single prediction, Biden is up for at least 7 points. 
 
 He's been mentioning that he wants a t-shirt with the inscription *He'll Do* (to reflect his true feelings towards Biden); and because I'm the best girlfriend in the entire Universe, I designed one for him.
-Then I uploaded the image to teespring.com so he could as many t-shirts and tote bags as many as he pleased with Joe's face. I'm making almost no profit from this sales, and I think Joey will be the first lucky recipiant of a Ninni-Biden Original. It's a shame they do not do pins :(.
+
+Then I uploaded the image to teespring.com so he could order as many t-shirts and tote bags as many as he pleased with Joe's face. I'm making almost no profit from this sales, and I think Joey will be the first lucky recipiant of a Ninni-Biden Original. It's a shame they do not do pins :(.
 
 The result:
 
