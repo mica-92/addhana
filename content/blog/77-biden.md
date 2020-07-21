@@ -17,7 +17,7 @@ Ted is very happy about this fact. Although it would have never been his (or pro
 
 He's been mentioning that he wants a t-shirt with the inscription *He'll Do* (to reflect his true feelings towards Biden); and because I'm the best girlfriend in the entire Universe, I designed one for him.
 
-Then I uploaded the image to teespring.com so he could order as many t-shirts and tote bags as many as he pleased with Joe's face. I'm making almost no profit from this sales, and I think Joey will be the first lucky recipiant of a Ninni-Biden Original. It's a shame they do not do pins :(.
+Then I uploaded the image to teespring.com so he could order as many t-shirts and tote bags as he pleased with Joe's face. I'm making almost no profit from this sales, and I think Joey will be the first lucky recipiant of a Ninni-Biden Original. It's a shame they do not do pins :(.
 
 The result:
 
