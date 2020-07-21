@@ -23,7 +23,7 @@ The result:
 
 ![SF](/77-biden2020.png)
 
-<h3>My teespring listing: get it <a href="https://teespring.com/he-ll-do-joe-2020?pid=934&cid=103880">here</a></h3>
+<h3>My teespring listing: get it <a href="https://teespring.com/he-ll-do-biden-2020?pid=934&cid=103880">here</a></h3>
 
 ![SF](/77-tee.png)
 
