@@ -15,7 +15,7 @@ publishDir = "docs"
 # disqusShortname = "addhana"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+googleAnalytics = "UA-173269707-1" 
 
 # Optional params
 [params]

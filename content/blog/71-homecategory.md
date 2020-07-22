@@ -40,8 +40,9 @@ Ever since I found out I've been accepted I wanted to spend as much time with my
 
 ## (Ideal) Reading List
 
-* *The Art of Discarding: How to Get Rid of Clutter and Find Joy* by Nagisa Tatsumi
-* *The Life-Changing Magic of Tidying Up* by Marie Kondo (re-read)
+* ~~*The Art of Discarding: How to Get Rid of Clutter and Find Joy* by Nagisa Tatsumi~~ <a href="http://addhana.com/blog/the-art-of-discarding/">July 17, 2020</a>
+* ~~*The Life-Changing Magic of Tidying Up* by Marie Kondo (re-read)~~ <a href="http://addhana.com/blog/konmari/">July 22, 2020</a>
+* ~~*Spark Joy* by Marie Kondo (re-read)~~ <a href="http://addhana.com/blog/konmari/">July 22, 2020</a>
 * *The Curated Closet* by Anuschka Rees
 * *Soulful Simplicity: How Living with Less Can Lead to So Much More* by Courtney Carver (she's the creator of the 333 project)
 * *Goodbye, Things: On Minimalist Living* by Fumio Sasaki
