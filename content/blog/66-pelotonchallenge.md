@@ -5,7 +5,7 @@ slug: "66-pelotonchallenge"
 description: "100 of healthy eathing"
 keywords: ["happiness", "challenges"]
 draft: false
-tags: ["quarantine", "challenges", "peloton"]
+tags: ["quarantine-journal", "challenges", "peloton", "habits"]
 
 math: false
 toc: true

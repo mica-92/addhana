@@ -5,7 +5,7 @@ slug: "day1"
 description: "THP"
 keywords: ["home", "happiness"]
 draft: false
-tags: ["home", ]
+tags: ["home", "quarantine-journal"]
 
 math: false
 toc: true

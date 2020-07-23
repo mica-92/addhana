@@ -5,7 +5,7 @@ slug: "73-healthy habits"
 description: "THP"
 keywords: ["home", "happiness"]
 draft: false
-tags: ["happiness-project", "wellbeing", "habits"]
+tags: ["happiness-project", "wellbeing", "habits", "quarantine-journal"]
 
 math: false
 toc: true

@@ -5,7 +5,7 @@ slug: "ted-and-joe"
 description: "THP"
 keywords: ["USA", "Ted"]
 draft: false
-tags: ["USA", "Ted"]
+tags: ["USA", "Ted", "quarantine-journal"]
 
 math: false
 toc: true

@@ -5,7 +5,7 @@ slug: "67-attachment"
 description: "The happiness project- rules of adulhood"
 keywords: ["happiness"]
 draft: false
-tags: ["buddhism", "quarantine"]
+tags: ["buddhism", "quarantine-journal"]
 math: false
 toc: true
 ---

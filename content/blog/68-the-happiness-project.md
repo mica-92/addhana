@@ -5,7 +5,7 @@ slug: "68-thp"
 description: "The happiness project- rules of adulhood"
 keywords: ["happiness"]
 draft: false
-tags: ["happiness-project","quarantine"]
+tags: ["happiness-project","quarantine-journal"]
 
 math: false
 toc: true

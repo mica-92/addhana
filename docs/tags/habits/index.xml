@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 07:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/habits/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another day...</title>
+      <link>https://addhana.com/blog/anotherday/</link>
+      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/anotherday/</guid>
+      <description>...another Peloton challenge failed,another meditation streak lost. home-made bread, the cause
+BEGIN AGAIN
+...and a Taylor Swift&#39;s Folklore is coming out tonight...</description>
+    </item>
     
     <item>
       <title>#0.5 Healthy habits</title>
@@ -30,6 +41,16 @@ In order not to get too overwhelmed I will add these important having in pairs e
       <guid>https://addhana.com/blog/71-homeclutter/</guid>
       <description>Moving is an imminent fact, and therefore the &amp;ldquo;home &amp;amp; clutter&amp;rdquo; category seemed a great place to start my happiness project. Moving is not a minor activity, research cites it as the most stressful life event. Nonetheless, we run with an advantage. As we are moving to a completely different country, time zone, and hemisphere, we trully need to declutter and take only the essentials.
 Apart from the physical objects, taking care of the emotional aspect is also tectonic because we won&amp;rsquo;t be living in Argentina for the next 4 years.</description>
+    </item>
+    
+    <item>
+      <title>Peloton Challenge</title>
+      <link>https://addhana.com/blog/66-pelotonchallenge/</link>
+      <pubDate>Tue, 07 Jul 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/66-pelotonchallenge/</guid>
+      <description>Moving to the States is exciting for several reasons: Christmases are going to be snowy, and Thanksgiving dinners will have turkey again. But most importantly the amazing world of online shopping will be at our feet and God I’m looking forward to it.
+With the COVID situation and the unsafeness associated with close contact activities, we decided the first purchase to be a peloton bike. But in order to make things a little bit more fun, we decided to add a small challenge.</description>
     </item>
     
   </channel>

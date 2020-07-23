@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 07:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another day...</title>
+      <link>https://addhana.com/blog/anotherday/</link>
+      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/anotherday/</guid>
+      <description>...another Peloton challenge failed,another meditation streak lost. home-made bread, the cause
+BEGIN AGAIN
+...and a Taylor Swift&#39;s Folklore is coming out tonight...</description>
+    </item>
     
     <item>
       <title>Peloton Challenge</title>

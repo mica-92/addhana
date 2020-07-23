@@ -1,11 +1,11 @@
 ---
-title: "KonMari - A Reread"
+title: "KonMari - A re-read"
 date: 2020-07-22T07:19:29-04:00
 slug: "konmari"
 description: "Marie Kondo's book"
 keywords: ["declutter", "home", "books"]
 draft: false
-tags: ["home", "books"]
+tags: ["home", "books", "happiness-project"]
 
 math: false
 toc: true
@@ -15,14 +15,14 @@ Growing up, the way my parent's house looked was always a source of stress for m
 
 So, as soon as I moved with Ted I wanted to avoid all the mistakes I felt my parent's made in their own space. I wanted our apartment to be the center of all family reunions and study meetings. And that I did. For 2 years we got the most out of our small space while receiving multiple compliments on how it looked. 
 
-I give partial credit to both Marie Kondo's books, *The Life-Changing Magic of Tidying Up*, and *Spark Joy*. Concise and to the point, in less than 500 pages they taught me how to keep things simple and functional around the house. And now that I'm moving they seemed a great guide to help me once more with decluttering and organizing our belongings.
+I give partial credit to both Marie Kondo's books, <a href="https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up">*The Life-Changing Magic of Tidying Up*</a>, and <a href="https://www.goodreads.com/book/show/25614984-spark-joy">*Spark Joy*</a>. Concise and to the point, in less than 500 pages they taught me how to keep things simple and functional around the house. And now that I'm moving they seemed a great guide to help me once more with decluttering and organizing our belongings.
 
-## Re-read book notes and insights:
+## Book notes and insights:
 * Discard first, organize later. I've seen myself already fail at this axiom. After doing a decent job on packing and donating kitchen items, my wardrobe probe to be a tougher contestant.   
 * Every time ask yourself: **does it spark joy?** 
 * We should be choosing what we want to keep, not what we want to get rid of.
 * The best sequence is this: clothes first, then books, papers, *komono* (miscellany), and lastly, mementos.
-* Two very important maxims: **don’t let your family see** (I) and **what you don’t need, your family doesn’t either** (II).
+* Two very important maxims: **don’t let your family see** (i) and **what you don’t need, your family doesn’t either** (ii).
 * We need a quiet space to evaluate the things in your life.
 * **Every object has a different role to play and a lesson to teach, once the task is fulfilled we should let go**. To truly cherish the things that are important to you, you must first discard those that have outlived their purpose.
 * **Everything has to have its designated spot**. Plus two rules: store all items of the same type in the same place and don’t scatter storage space. Clutter is caused by a failure to return things to where they belong. Therefore, storage should reduce the effort needed to put things away, not the effort needed to get them out.
@@ -74,7 +74,7 @@ I give partial credit to both Marie Kondo's books, *The Life-Changing Magic of T
 
 #### Other notes
 * **Avoid the loungewear category** 
-* My number one Konmari sin - Never, ever tie up your stockings. Never, ever ball up your socks.
+* My number one KonMari sin - Never, ever tie up your stockings. Never, ever ball up your socks.
 * The trick is not to overcategorize. Divide your clothes roughly into “cotton-like” and “wool-like” materials when you put them in the drawer.
 
 ### Books
@@ -88,7 +88,7 @@ Distribute all college material after the final exam has been given
 ### Komono
 * Skincare products & makeup- Not a big problem
 * Accessories - This is a cumbersome category and one I am not looking forward to tackling. 
-* Anything that seems vaguely “electric” - There's room for improvement in this arena
+* Anything that seems vaguely “electric” - There's room for improvement in this arena.
 * Household equipment - In my case, this is mainly stationary and writing goods and, crochet supplies and shopping bags. The latter is the family's karma. 
 * Kitchen - The three main categories of kitchen komono are implements for eating, cooking tools, and food.
 
@@ -99,3 +99,5 @@ Distribute all college material after the final exam has been given
 ![KonMari](/78-konmari.png)
 
 ![KonMari](/78-konmariII.png)
+
+*beautiful cartoons from Spark Joy*

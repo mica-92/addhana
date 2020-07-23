@@ -5,7 +5,7 @@ slug: "70-aprayer"
 description: "a prayer"
 keywords: ["blog", "hugo"]
 draft: false
-tags: ["blog", "favorites"]
+tags: ["blog", "favorites", "quarantine-journal"]
 
 math: false
 toc: true
