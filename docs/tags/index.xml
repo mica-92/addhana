@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Thu, 23 Jul 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>habits</title>
+      <link>https://addhana.com/tags/habits/</link>
+      <pubDate>Fri, 24 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quarantine-journal</title>
+      <link>https://addhana.com/tags/quarantine-journal/</link>
+      <pubDate>Fri, 24 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/quarantine-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taylor</title>
+      <link>https://addhana.com/tags/taylor/</link>
+      <pubDate>Fri, 24 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/taylor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>challenges</title>
@@ -22,38 +49,11 @@
     </item>
     
     <item>
-      <title>habits</title>
-      <link>https://addhana.com/tags/habits/</link>
-      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/habits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>peloton</title>
       <link>https://addhana.com/tags/peloton/</link>
       <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/peloton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quarantine-journal</title>
-      <link>https://addhana.com/tags/quarantine-journal/</link>
-      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/quarantine-journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>taylor</title>
-      <link>https://addhana.com/tags/taylor/</link>
-      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/taylor/</guid>
       <description></description>
     </item>
     
