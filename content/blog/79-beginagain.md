@@ -1,6 +1,6 @@
 ---
 title: "Another day..."
-date: 2020-07-22T07:19:29-04:00
+date: 2020-07-23T00:19:29-04:00
 slug: "anotherday"
 description: "Short post"
 keywords: ["taylor swift", "home", "books"]

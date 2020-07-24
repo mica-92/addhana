@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Micaela Ninni © {2020}</copyright>
-    <lastBuildDate>Wed, 22 Jul 2020 07:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>books</title>
-      <link>https://addhana.com/tags/books/</link>
-      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>challenges</title>
       <link>https://addhana.com/tags/challenges/</link>
-      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/challenges/</guid>
       <description></description>
@@ -33,9 +24,45 @@
     <item>
       <title>habits</title>
       <link>https://addhana.com/tags/habits/</link>
-      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peloton</title>
+      <link>https://addhana.com/tags/peloton/</link>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/peloton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quarantine-journal</title>
+      <link>https://addhana.com/tags/quarantine-journal/</link>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/quarantine-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taylor</title>
+      <link>https://addhana.com/tags/taylor/</link>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://addhana.com/tags/books/</link>
+      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/books/</guid>
       <description></description>
     </item>
     
@@ -54,24 +81,6 @@
       <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>peloton</title>
-      <link>https://addhana.com/tags/peloton/</link>
-      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/peloton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quarantine-journal</title>
-      <link>https://addhana.com/tags/quarantine-journal/</link>
-      <pubDate>Wed, 22 Jul 2020 07:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/quarantine-journal/</guid>
       <description></description>
     </item>
     
