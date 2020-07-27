@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>habits</title>
-      <link>https://addhana.com/tags/habits/</link>
+      <title>apocalypse</title>
+      <link>https://addhana.com/tags/apocalypse/</link>
       <pubDate>Fri, 24 Jul 2020 00:19:29 -0400</pubDate>
       
-      <guid>https://addhana.com/tags/habits/</guid>
+      <guid>https://addhana.com/tags/apocalypse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>favorites</title>
+      <link>https://addhana.com/tags/favorites/</link>
+      <pubDate>Fri, 24 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/favorites/</guid>
       <description></description>
     </item>
     
@@ -45,6 +54,15 @@
       <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habits</title>
+      <link>https://addhana.com/tags/habits/</link>
+      <pubDate>Thu, 23 Jul 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/habits/</guid>
       <description></description>
     </item>
     
@@ -144,15 +162,6 @@
       <pubDate>Tue, 14 Jul 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>favorites</title>
-      <link>https://addhana.com/tags/favorites/</link>
-      <pubDate>Tue, 14 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/favorites/</guid>
       <description></description>
     </item>
     
