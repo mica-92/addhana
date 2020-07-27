@@ -1,11 +1,11 @@
 ---
 title: "Doomsdale"
-date: 2020-07-24T00:19:29-04:00
+date: 2020-07-26T00:19:29-04:00
 slug: "domsdale"
 description: "Short post"
 keywords: ["taylor swift", "home", "books"]
 draft: false
-tags: ["quarantine-journal", "apocalypse", "favorites"]
+tags: ["quarantine-journal", ]
 
 math: false
 toc: true
@@ -14,4 +14,3 @@ The prospects for <a href="https://samharris.org/podcasts/208-existential-risk/"
 
 
 <h3>Step 1 is to get educatated. 
-<br><br>Thanks Sam</h3>
