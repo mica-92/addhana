@@ -5,7 +5,7 @@ slug: "a-beautiful-neighborhood"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["quarantine-journal", "home"]
+tags: ["quarantine-journal", "photos"]
 
 math: false
 toc: true
@@ -16,3 +16,5 @@ toc: true
 ![train](/83-train.png)
 ![trainII](/83-trainII.png)
 ![tunnel](/83-tunnel.png)
+
+*i - granada; ii - shadow; iii - balcon; iv, v - trains I & II; vi - green bridge*
