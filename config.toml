@@ -8,7 +8,7 @@ theme = "hugo-theme-codex"
 title = "Addhana"
 languageCode = "en-us"
 baseURL = "https://addhana.com"
-copyright = "Micaela Ninni © {2020}"
+copyright = "Made with 💚 by Mica, 2020"
 publishDir = "docs"
 
 # Add your Disqus shortname here.

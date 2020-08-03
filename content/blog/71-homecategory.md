@@ -43,8 +43,9 @@ Ever since I found out I've been accepted I wanted to spend as much time with my
 * ~~*The Art of Discarding: How to Get Rid of Clutter and Find Joy* by Nagisa Tatsumi~~ <a href="http://addhana.com/blog/the-art-of-discarding/">July 17, 2020</a>
 * ~~*The Life-Changing Magic of Tidying Up* by Marie Kondo (re-read)~~ <a href="http://addhana.com/blog/konmari/">July 22, 2020</a>
 * ~~*Spark Joy* by Marie Kondo (re-read)~~ <a href="http://addhana.com/blog/konmari/">July 22, 2020</a>
-* *The Curated Closet* by Anuschka Rees
+* ~~*The Curated Closet* by Anuschka Rees~~ July 23, 2020
+* ~~*The Complete Book of Home Organization* by Toni Hammersley~~ <a href="https://www.goodreads.com/review/show/3474896640">July 30th, 2020</a> 
+* ~~*The Home Edit: A Guide to Organizing and Realizing Your House Goals* by Clea Shearer and Joanna Teplin~~ <a href="https://www.goodreads.com/review/show/3474894533?book_show_action=false">August 1st, 2020</a>
+* ~~*Goodbye, Things: On Minimalist Living* by Fumio Sasaki~~ <a href="https://www.goodreads.com/review/show/3474898670">August 1st, 2020</a>
 * *Soulful Simplicity: How Living with Less Can Lead to So Much More* by Courtney Carver (she's the creator of the 333 project)
-* *Goodbye, Things: On Minimalist Living* by Fumio Sasaki
-* *The Power of Less:The Fine Art of Limiting Yourself to the Essential...in Business and in Life* by Leo Babauta
-* *The Home Edit: A Guide to Organizing and Realizing Your House Goals* by Clea Shearer and Joanna Teplin
+* *The Power of Less: The Fine Art of Limiting Yourself to the Essential...in Business and in Life* by Leo Babauta
