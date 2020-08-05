@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>happiness-project</title>
       <link>https://addhana.com/tags/happiness-project/</link>
-      <pubDate>Sat, 01 Aug 2020 00:19:29 -0400</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/happiness-project/</guid>
       <description></description>
@@ -24,18 +24,36 @@
     <item>
       <title>quarantine-journal</title>
       <link>https://addhana.com/tags/quarantine-journal/</link>
-      <pubDate>Sat, 01 Aug 2020 00:19:29 -0400</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/quarantine-journal/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>buddhism</title>
+      <link>https://addhana.com/tags/buddhism/</link>
+      <pubDate>Mon, 03 Aug 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/buddhism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>photos</title>
       <link>https://addhana.com/tags/photos/</link>
-      <pubDate>Wed, 29 Jul 2020 00:19:29 -0400</pubDate>
+      <pubDate>Mon, 03 Aug 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quote</title>
+      <link>https://addhana.com/tags/quote/</link>
+      <pubDate>Mon, 03 Aug 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/quote/</guid>
       <description></description>
     </item>
     
@@ -184,15 +202,6 @@
     </item>
     
     <item>
-      <title>buddhism</title>
-      <link>https://addhana.com/tags/buddhism/</link>
-      <pubDate>Wed, 08 Jul 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/buddhism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>scrabble</title>
       <link>https://addhana.com/tags/scrabble/</link>
       <pubDate>Sun, 31 May 2020 09:19:29 -0400</pubDate>
@@ -243,15 +252,6 @@
       <pubDate>Wed, 20 May 2020 09:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/streak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quote</title>
-      <link>https://addhana.com/tags/quote/</link>
-      <pubDate>Sun, 17 May 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/quote/</guid>
       <description></description>
     </item>
     
