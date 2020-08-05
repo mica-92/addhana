@@ -16,10 +16,10 @@ toc: true
 * <a href="">Gratitude Journal</a>
 
 ## Weeks 29, 30, 31 - Review
+My *faleo* streak of the <a href="https://addhana.com/blog/73-healthy-habits/">healthy habits</a> I've been trying to cultivate this past couple of weeks.
 
 
 <h3>Meditation
-My faleo streak of the <a href="https://addhana.com/blog/73-healthy-habits/">healthy habits</a> I've been trying to cultivate.
 
 ![](/88-medI.png)
 ![](/88-medII.png)
