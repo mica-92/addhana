@@ -1,6 +1,6 @@
 ---
 title: "#0.75 Healthy Habits"
-date: 2020-08-04T00:19:29-04:00
+date: 2020-08-05T00:19:29-04:00
 slug: "88-healthyhabits"
 description: "Short post"
 keywords: ["lists"]
