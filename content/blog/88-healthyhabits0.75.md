@@ -13,7 +13,7 @@ toc: true
 ## Week 32 & 33
 
 * Training (Nike Training App, Olie, Running) at least 3 times a week.
-* <a href="">Gratitude Journal</a>
+* <a href="http://addhana.com/gratitude-journal/">Gratitude Journal</a>
 
 ## Weeks 29, 30, 31 - Review
 My *faleo* streak of the <a href="https://addhana.com/blog/73-healthy-habits/">healthy habits</a> I've been trying to cultivate this past couple of weeks.
