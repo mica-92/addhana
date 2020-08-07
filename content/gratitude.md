@@ -19,7 +19,9 @@ toc: false
 * Modern Family - Season 4.
 * Afternoon with my Grandparents.
 
-## August 6th, 2020
+## August 7th, 2020
 * Surviving 27.
+* Lazy evenings.
 * Teaching something to my mum.
-* Lazy evenings. 
+
+![](/90-mum.jpeg)
