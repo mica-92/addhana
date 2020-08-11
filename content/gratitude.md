@@ -34,9 +34,9 @@ toc: false
 ## August 9th, 2020
 * Family time.
 * Home-made food. Everyone trying to show off their culinary skills. Me with carrot-cake and cinammon-rolls. Dad with pizza. Mica with her key lime pie, pastafrola and rogel.
-* 
+* Mistakes and their lessons.
 
 ## August 10th, 2020
 * Home made maeals.
 * Sunny winter days.
-* 
+* Friends (Zoom + Caro).

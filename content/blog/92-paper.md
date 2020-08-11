@@ -11,4 +11,7 @@ toc: true
 ---
 
 Today I started writting my first scientific paper :)
+The first one of many to come.
 I officially started making used of my *Lic.* prefix. 
+
++ I hit a >50wpm for the first time. 
