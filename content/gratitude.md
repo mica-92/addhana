@@ -25,3 +25,18 @@ toc: false
 * Teaching something to my mum.
 
 ![](/90-mum.jpeg)
+
+## August 8th, 2020
+* Digital love and messages.
+* Laughs with my favorite person in the Universe, my sister.
+* New beginnings. 
+
+## August 9th, 2020
+* Family time.
+* Home-made food. Everyone trying to show off their culinary skills. Me with carrot-cake and cinammon-rolls. Dad with pizza. Mica with her key lime pie, pastafrola and rogel.
+* 
+
+## August 10th, 2020
+* Home made maeals.
+* Sunny winter days.
+* 
