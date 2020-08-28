@@ -1,17 +1,28 @@
 ---
-title: "Test"
-date: 2020-08-20T00:19:29-04:00
-slug: "93"
+title: "Mood"
+date: 2020-08-27T00:19:29-04:00
+slug: "93-mood"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["quarantine-journal"]
+tags: ["philadelphia", "taylor"]
 math: false
 toc: true
 ---
+*And they called off the circus, burned the disco down*
 
-Today I started writting my first scientific paper :)
-The first one of many to come.
-I officially started making used of my *Lic.* prefix. 
+*When they sent home the horses and the rodeo clowns*
 
-+ I hit a >50wpm for the first time. 
+*I'm still on that tightrope*
+
+*I'm still trying everything to get you laughing at me*
+
+*And I'm still a believer, but I don't know why*
+
+*I've never been a natural, all I do is try, try, try*
+
+*I'm still on that trapeze*
+
+*I'm still trying everything to keep you looking at me*
+
+<p class= "right"> Mirroball, Taylor Swift
