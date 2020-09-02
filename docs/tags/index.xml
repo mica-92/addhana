@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>failures</title>
-      <link>https://addhana.com/tags/failures/</link>
-      <pubDate>Sun, 30 Aug 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/failures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>graduate</title>
       <link>https://addhana.com/tags/graduate/</link>
-      <pubDate>Sun, 30 Aug 2020 00:19:29 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/graduate/</guid>
       <description></description>
@@ -33,9 +24,18 @@
     <item>
       <title>philadelphia</title>
       <link>https://addhana.com/tags/philadelphia/</link>
-      <pubDate>Sun, 30 Aug 2020 00:19:29 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/philadelphia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>failures</title>
+      <link>https://addhana.com/tags/failures/</link>
+      <pubDate>Sun, 30 Aug 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/failures/</guid>
       <description></description>
     </item>
     
