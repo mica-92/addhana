@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>graduate</title>
       <link>https://addhana.com/tags/graduate/</link>
-      <pubDate>Tue, 01 Sep 2020 00:19:29 -0400</pubDate>
+      <pubDate>Thu, 17 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/graduate/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>philadelphia</title>
       <link>https://addhana.com/tags/philadelphia/</link>
-      <pubDate>Tue, 01 Sep 2020 00:19:29 -0400</pubDate>
+      <pubDate>Thu, 17 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/philadelphia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>https://addhana.com/tags/words/</link>
+      <pubDate>Thu, 17 Sep 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/words/</guid>
       <description></description>
     </item>
     
