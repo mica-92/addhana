@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Thu, 17 Sep 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/philadelphia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tipying</title>
+      <link>https://addhana.com/blog/98-typingchallenge/</link>
+      <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/98-typingchallenge/</guid>
+      <description>Keybr Challenge • Keybr Profile</description>
+    </item>
     
     <item>
       <title>Mental note</title>
@@ -18,7 +27,7 @@
       <pubDate>Thu, 17 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/blog/96-mentalnote/</guid>
-      <description>HomonymsPotluck is not the same as pot-luck.
+      <description>HomonymsPotluck has nothing to do with pot.
  Potluck (noun) - a communal meal to which people bring food to share —usually used attributively
  </description>
     </item>

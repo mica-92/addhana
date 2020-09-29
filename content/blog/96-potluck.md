@@ -11,7 +11,7 @@ toc: true
 ---
 <h2>Homonyms</h2>
 
-<i>Potluck</i> is not the same as <i>pot-luck</i>.
+<i>Potluck</i> has nothing to do with pot.
 
 > <cite><i><b>Potluck (noun)</b> - a communal meal to which people bring food to share —usually used attributively</i>
 
