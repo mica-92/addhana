@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Tue, 29 Sep 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EES Logo</title>
+      <link>https://addhana.com/blog/99-eeslogo/</link>
+      <pubDate>Sat, 03 Oct 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/99-eeslogo/</guid>
+      <description>The Earth and Environmental Science Department is holding a contest for its logo. I have so much fun doing these kinds of things I couldn&amp;rsquo;t stop myself from participating.
+These are my two contributions to the contest:
+#fingerscrossed The colors I used are Penn&amp;rsquo;s colors accoridng to these guidelines. Penn Name Font – Perpetua or Traveling Typewriter (free font here). EES Font - National Park (free font link here).</description>
+    </item>
     
     <item>
       <title>QM</title>
@@ -19,11 +30,7 @@
       
       <guid>https://addhana.com/blog/qm/</guid>
       <description>A week in MSE 570 This page is a trial for exporting notes between Notion and OneNote. I&amp;rsquo;m still figuring out which one will work best for me.
-Introduction to QM Class: MSE 570
-Reviewed: No
-Type: Study Notes
-Week: 372020
-A little bit of history  The main inconvenience with the classical view of the atom, the Rutherford model, was that it was known already that a particle accelerating in an EM field would eradiate its energy.</description>
+Introduction to QM  Class: MSE 570 Reviewed: No Type: Study Notes Week: 37- 2020  A little bit of history  The main inconvenience with the classical view of the atom, the Rutherford model, was that it was known already that a particle accelerating in an EM field would eradiate its energy.</description>
     </item>
     
     <item>

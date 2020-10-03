@@ -10,20 +10,17 @@ math: false
 toc: true
 ---
 
-# A week in MSE 570
+A week in MSE 570
 <i>This page is a trial for exporting notes between Notion and OneNote. I'm still figuring out which one will work best for me.</i> 
 
 # Introduction to QM
 
-Class: MSE 570
+- Class: MSE 570
+- Reviewed: No
+- Type: Study Notes
+- Week: 37- 2020
 
-Reviewed: No
-
-Type: Study Notes
-
-Week: 372020
-
-### A little bit of history
+## A little bit of history
 
 - The main inconvenience with the classical view of the atom, the Rutherford model, was that it was known already that a particle accelerating in an EM field would eradiate its energy. In these models the atom is unstable meaning that eventually the electrons would collide and merge with the nucleus.
 - Discoveries in atomic spectra showed that each element emits light of specific energies when excited by an electric discharge or heat.
