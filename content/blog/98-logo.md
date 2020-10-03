@@ -18,6 +18,6 @@ These are my two contributions to the contest:
 
 ![](/MTN.png)
 
-### #fingerscrossed
+<h3> #fingerscrossed</h3>
 
-The colors I used are Penn's colors accoridng to <a href='https://www.gse.upenn.edu/pdf/comms/Penn_GSE_Style_and_Brand_Manual.pdf'>these</a> guidelines. Penn Name Font – Perpetua or Traveling Typewriter (free font <a href='https://www.dafont.com/traveling-typewriter.font'>here</a>). EES Font - National Park (free font link <a href='https://nationalparktypeface.com/'>here</a>).
+<i>The colors I used are Penn's colors accoridng to <a href='https://www.gse.upenn.edu/pdf/comms/Penn_GSE_Style_and_Brand_Manual.pdf'>these</a> guidelines. Penn Name Font – Perpetua or Traveling Typewriter (free font <a href='https://www.dafont.com/traveling-typewriter.font'>here</a>). EES Font - National Park (free font link <a href='https://nationalparktypeface.com/'>here</a>).
