@@ -1,7 +1,7 @@
 ---
 title: "The best case for Atheism"
 date: 2020-10-15T00:19:29-04:00
-slug: "100"
+slug: "101-atheism"
 description: "Short post"
 keywords: ["lists"]
 draft: false

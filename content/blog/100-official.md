@@ -10,7 +10,7 @@ math: false
 toc: true
 ---
 The small things that make me feel part of a larger community.
-I am proud :)
+I'm so proud :)
 
 <h3 class="right"><a href="https://earth.sas.upenn.edu/people/maria-micaela-ninni">EES Profile</a>
 

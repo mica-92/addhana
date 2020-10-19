@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>graduate</title>
       <link>https://addhana.com/tags/graduate/</link>
-      <pubDate>Fri, 16 Oct 2020 00:19:29 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/graduate/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>Penn</title>
       <link>https://addhana.com/tags/penn/</link>
-      <pubDate>Fri, 16 Oct 2020 00:19:29 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/penn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflections</title>
+      <link>https://addhana.com/tags/reflections/</link>
+      <pubDate>Sun, 18 Oct 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/reflections/</guid>
       <description></description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Thu, 15 Oct 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/atheism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reflections</title>
-      <link>https://addhana.com/tags/reflections/</link>
-      <pubDate>Thu, 15 Oct 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/reflections/</guid>
       <description></description>
     </item>
     
@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>MSE</title>
+      <link>https://addhana.com/tags/mse/</link>
+      <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/mse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>studynotes</title>
       <link>https://addhana.com/tags/studynotes/</link>
       <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
@@ -99,15 +108,6 @@
       <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/ted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>trial</title>
-      <link>https://addhana.com/tags/trial/</link>
-      <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/trial/</guid>
       <description></description>
     </item>
     
