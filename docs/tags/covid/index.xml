@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID on Addhana</title>
+    <link>https://addhana.com/tags/covid/</link>
+    <description>Recent content in COVID on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with 💚 by Mica, 2020</copyright>
+    <lastBuildDate>Mon, 19 Oct 2020 00:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://addhana.com/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being on the good side of statistics</title>
+      <link>https://addhana.com/blog/104-covid/</link>
+      <pubDate>Mon, 19 Oct 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/104-covid/</guid>
+      <description>Despite all the uncertainty surrounding COVID, we have sufficient evidence to show that death rates among young adults are pretty low. It is possibly even lower if the individual has no pre-existing conditions (like asthma or some auto-immune disease). But even with a death-rate of 0.1% is 500% more than the one we observe in the regular flu-season (0.02%).
+I know I am on the good side of statistics. If, by any chance, I get COVID, there&amp;rsquo;s a big chance I end up having only mild symptoms and no severe, long-lasting effects.</description>
+    </item>
+    
+  </channel>
+</rss>
