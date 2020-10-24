@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Second Kind of Impossible</title>
+      <link>https://addhana.com/blog/105-quasicrystals/</link>
+      <pubDate>Sat, 24 Oct 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/105-quasicrystals/</guid>
+      <description>&amp;ldquo;I had learned early on to pay close attention whenever an idea is dismissed as “impossible.” Most of the time, scientists are referring to something that is truly out of the question, like violating the conservation of energy or creating a perpetual motion machine. It never makes sense to pursue those kinds of ideas. But sometimes, an idea is judged to be “impossible” based on assumptions that could be violated under certain circumstances that have never been considered before.</description>
+    </item>
     
     <item>
       <title>Being on the good side of statistics</title>
