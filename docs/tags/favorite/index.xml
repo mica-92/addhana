@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>favorite on Addhana</title>
+    <link>https://addhana.com/tags/favorite/</link>
+    <description>Recent content in favorite on Addhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Made with 💚 by Mica, 2020</copyright>
+    <lastBuildDate>Mon, 16 Nov 2020 00:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://addhana.com/tags/favorite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bucket Full of Flowers: Philly Edition</title>
+      <link>https://addhana.com/blog/106-abucketfullofflowers/</link>
+      <pubDate>Mon, 16 Nov 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/106-abucketfullofflowers/</guid>
+      <description>A couple of years ago, I wrote, what remains to this day, one of my favorite blog posts of all time, A Bucket Full of Fowers.
+A hundred blogs and three years later, flowers remain a small tradition in our apartments. They were for the remainder of our life in Mexico; it continued while in Argentina, and now we pay patronage here in Philly. Flowers still bring me as much joy as ever, and I take care of them with the same devotion, changing their water every day, getting rid of unnecessary leaves, and throwing away the ones starting to wither.</description>
+    </item>
+    
+    <item>
+      <title>The Second Kind of Impossible</title>
+      <link>https://addhana.com/blog/105-quasicrystals/</link>
+      <pubDate>Sat, 24 Oct 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/105-quasicrystals/</guid>
+      <description>&amp;ldquo;I had learned early on to pay close attention whenever an idea is dismissed as “impossible.” Most of the time, scientists are referring to something that is truly out of the question, like violating the conservation of energy or creating a perpetual motion machine. It never makes sense to pursue those kinds of ideas. But sometimes, an idea is judged to be “impossible” based on assumptions that could be violated under certain circumstances that have never been considered before.</description>
+    </item>
+    
+  </channel>
+</rss>

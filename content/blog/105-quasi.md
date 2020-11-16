@@ -5,7 +5,7 @@ slug: "105-quasicrystals"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["philadelphia", "graduate", "mse"]
+tags: ["philadelphia", "graduate", "mse", "quote","favorite"]
 math: false
 toc: true
 ---

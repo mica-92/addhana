@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 00:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Bucket Full of Flowers: Philly Edition</title>
+      <link>https://addhana.com/blog/106-abucketfullofflowers/</link>
+      <pubDate>Mon, 16 Nov 2020 00:19:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/blog/106-abucketfullofflowers/</guid>
+      <description>A couple of years ago, I wrote, what remains to this day, one of my favorite blog posts of all time, A Bucket Full of Fowers.
+A hundred blogs and three years later, flowers remain a small tradition in our apartments. They were for the remainder of our life in Mexico; it continued while in Argentina, and now we pay patronage here in Philly. Flowers still bring me as much joy as ever, and I take care of them with the same devotion, changing their water every day, getting rid of unnecessary leaves, and throwing away the ones starting to wither.</description>
+    </item>
     
     <item>
       <title>The Second Kind of Impossible</title>
@@ -95,16 +105,6 @@ To breathe and look around us. To realize that we are exactly where we want to b
       <description>The Earth and Environmental Science Department is holding a contest for its logo. I have so much fun doing these kinds of things I couldn&amp;rsquo;t stop myself from participating.
 These are my two contributions to the contest:
  #fingerscrossedThe colors I used are Penn&amp;rsquo;s colors accoridng to these guidelines. Penn Name Font – Perpetua or Traveling Typewriter (free font here). EES Font - National Park (free font link here).</description>
-    </item>
-    
-    <item>
-      <title>QM</title>
-      <link>https://addhana.com/blog/qm/</link>
-      <pubDate>Tue, 29 Sep 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/qm/</guid>
-      <description>A week in MSE 570 This page is a trial for exporting notes between Notion and OneNote. I&amp;rsquo;m still figuring out which one will work best for me.
-Introduction to QM  Class: MSE 570 Reviewed: No Type: Study Notes Week: 37- 2020  A little bit of history  The main inconvenience with the classical view of the atom, the Rutherford model, was that it was known already that a particle accelerating in an EM field would eradiate its energy.</description>
     </item>
     
     <item>
@@ -1131,141 +1131,12 @@ as I have never done anything like this before.</description>
     </item>
     
     <item>
-      <title>Bonding and forces</title>
-      <link>https://addhana.com/blog/bf/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/bf/</guid>
-      <description>Bonding &amp;amp; Bonding Forces and Energy Atomic bonding (force and energy diagram)
-Bonding Forces and Energies The net force (FN) between 2 atoms is just the sum of the attractive (FA) and repulsive (FR) force:
-FN = FA + FR
-The magnitude of each depends on the separation or interatomic distance (r). The origin of an attractive force FA depends on the particular type of bonding that exists between the two atoms.</description>
-    </item>
-    
-    <item>
-      <title>Crystallography</title>
-      <link>https://addhana.com/blog/crystallography/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/crystallography/</guid>
-      <description>Crystallography BOOK: Introduction to Crystallography, Sands (1975); Crystallography and the World of Symmetry, Chatterjee (2008)
-Crystal Structures Crystallography is the study of the structure and properties of the crystalline state.
- A crystalline material is one in which the atoms are situated in a repeating array over large atomic distances. Two characteristics: long-range order and periodicity. An amorphous material lacks long-range order. Crystalline structures are described though the hard-sphere model, where atoms are thought of being solid spheres with well-defined diameters.</description>
-    </item>
-    
-    <item>
       <title>material properties</title>
       <link>https://addhana.com/blog/materialp/</link>
       <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/blog/materialp/</guid>
       <description>Material Properties Room Temperature Density Room Temperature Stiffness Room Temperature Strengths Room Temperature Resistance to Fracture Room Temperature Electrical Conductivity Modulus of Elasticity (Stiffness) vs. Density </description>
-    </item>
-    
-    <item>
-      <title>Module 1 and 2</title>
-      <link>https://addhana.com/blog/module2/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module2/</guid>
-      <description>Module 1 &amp;amp; 2 - Material Sciences, QM &amp;amp; Periodic Table Lecture 1 - Material Sciences What is &amp;lsquo;material&amp;rsquo;?  Multi-scale structure like bones, are they materials? Aluminum the history of the origin of the material is very imprinted all over the material. Even simple materials consist of countless structural features at different length scales that have enormous  Material and Structure  10 microns to atoms = realm of the material science.</description>
-    </item>
-    
-    <item>
-      <title>Module 3</title>
-      <link>https://addhana.com/blog/module3/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module3/</guid>
-      <description>Module 3 - Bonding &amp;amp; Interatomic Potential Lecture 1 Notes - Bonding and hybridization Ionic Bonding  Charge transfer between high and low electronegativity atoms in solids +/- charged ions Need at least two different elements Very strong bonding High melting point Increasing R means weaker ionic bond, since centers of charge farther apart. Increasing charge for a given R greatly increases strength of bond  Covalent Bonding  We have electrons sharing one another We are dealing with valence electrons Directionality - electron density aggregated between the two atoms that are bonding together.</description>
-    </item>
-    
-    <item>
-      <title>Module 4</title>
-      <link>https://addhana.com/blog/module4/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module4/</guid>
-      <description>Module 4 - Crystallography Lecture 1 - Foundations of Crystallography, Symmetric Operations Basic Definitions
-What would be the difference between the unite cell and the basis/ motif?
-Symmetry operations
-  Symmetry - formal mathematical description of order.
-  Crystallography - includes ideas of symmetry and the notations used solid-state physics and material sciences.
-  Diffraction - experimental approach of crystallography.
-  Crystal structures - Defining features: long-range order and periodicity.</description>
-    </item>
-    
-    <item>
-      <title>Module 5</title>
-      <link>https://addhana.com/blog/module5/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module5/</guid>
-      <description>Module 5 - Crystals Lecture 1 - Physical Crystal I Metallic Crystal Structures Tend to be densely packed and have the simplest crystal structures. The reasons for this are:
- Typically are only composed of one element present, or they have similar sizes. Metallic bonding is non-directional Nearest neighbor distances tend to be small in order to lower the bond energy. Electron cloud shields the &amp;lsquo;metallic cores&amp;rsquo; from each other.  Simple Cubic Structure (SC)  Coordination number number 6 (nearest neighbors Octahedral Symmetry, each atom belong to 8 unit cells (therefore each contributes 1/8) Primitive unit cell  Atomic Packing Factor  APF how much materials vs.</description>
-    </item>
-    
-    <item>
-      <title>Module 6</title>
-      <link>https://addhana.com/blog/module6/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module6/</guid>
-      <description>Module 6 Lecture 1: A few last diffraction considerations Diffraction occurs when interference from the N scattering sites is
-constructive at the detector
-To determine if this occurs, we need to add the contributions of all N scatterers:
-If you look in the real crystal and you could identify the locations of all these atoms in the crystals is the Rⱼ and the Fourier Transform for all the atoms will give you the reciprocal lattice of that crystal.</description>
-    </item>
-    
-    <item>
-      <title>Module 8</title>
-      <link>https://addhana.com/blog/module8/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module8/</guid>
-      <description>Module 8 Class: MSE 570 Reviewed: No Type: Lecture Notes Week: https://www.notion.so/6dfa86fdc6964967befb503d9a8ddde4
-Lecture - 2 Defects and Elasticity &amp;ldquo;Materials are like people is their defects what makes them interesting&amp;rdquo;
-Point defects If you put a defect into the crystal it will deform the lattice and it will be associated with strain energy.
-Happen in one specific locations. Different types:
- Intertisial solute - not of the same type pf atoms and is not in the location where its supposed to be Self-interstitial - right kind but not in an appropriate lattice point Vacancy - missing atom.</description>
-    </item>
-    
-    <item>
-      <title>Module 9</title>
-      <link>https://addhana.com/blog/module9/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/module9/</guid>
-      <description>Module 9 Class: MSE 570 Reviewed: No Type: Lecture Notes
-Lecture 1: Dislocations Defects are important because they induce strain in the crystal lattice (with energy penalties)
-There is an equilibrium driving force towards some defect concentration and that is a function of temperature.
-Dislocations (1D) Just as point defects carry matter when they move, line defects (dislocations) can carry deformation. One can picture the scenario where shear stress is applied to a crystal and eventually all the bonds of the layer break at the same time.</description>
-    </item>
-    
-    <item>
-      <title>MS</title>
-      <link>https://addhana.com/blog/ms/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/ms/</guid>
-      <description>Introduction to Material Science SUMMARY:
-Materials and Material Sciences Recall Definitions
-The Material Paradigm
-Classification of materials
-Top- Down and Bottom- Up Science
-Notes Material science involves investigating the relationship that exists between the structures and the properties of materials.
-Material engineering involves, on the bases of these structure, property correlations, designing or engineering the structure of a material to produce a predetermined set of properties.
-The structure of a material relates to the arrangement of its internal components.</description>
-    </item>
-    
-    <item>
-      <title>PT</title>
-      <link>https://addhana.com/blog/pt/</link>
-      <pubDate>Wed, 06 Oct 2010 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/pt/</guid>
-      <description>The Periodic Table SUMMARY:
-The Periodic Table and its Properties Recall Notes Aufbau Principle and implications for chemical behavior  Valence electrons are going to influence bonding and how the element interacts with other elements.  The case of the carbon  In general, the electronic configuration is going to be 1s² 2s² sp². However, since 2s and 2p are very close in energy 1s² 2s¹ 2p³ can also occur. This hybridized orbital (sp3) can accept up to four bonds  Valence Shell for Transition Metals Trends in the Periodic Table </description>
     </item>
     
     <item>
