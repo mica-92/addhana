@@ -5,7 +5,7 @@ slug: "106-abucketfullofflowers"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["philadelphia", "favorite", "reflexions"]
+tags: ["philadelphia", "favorite", "meditations"]
 math: false
 toc: true
 ---

@@ -5,7 +5,7 @@ slug: "14-togetherness"
 description: "Reflexions"
 keywords: ["photo"]
 draft: false
-tags: ["palta-journal", "reflexions", "relationships"]
+tags: ["palta-journal", "meditations", "relationships"]
 math: true
 toc: true
 ---

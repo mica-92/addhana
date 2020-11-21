@@ -5,7 +5,7 @@ slug: "9-abucket"
 description: "Blogging: a reflexion"
 keywords: ["experience"]
 draft: false
-tags: ["palta-journal", "favorites", "reflexions"]
+tags: ["palta-journal", "favorites", "meditations"]
 math: true
 toc: true
 ---

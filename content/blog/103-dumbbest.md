@@ -5,7 +5,7 @@ slug: "103-dummest"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["graduate", "Penn", "reflections"]
+tags: ["graduate", "Penn", "meditations"]
 math: false
 toc: true
 ---

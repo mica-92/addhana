@@ -5,7 +5,7 @@ slug: "104-COVID"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["graduate", "Penn", "reflections","COVID"]
+tags: ["graduate", "Penn", "meditations","COVID"]
 math: false
 toc: true
 ---

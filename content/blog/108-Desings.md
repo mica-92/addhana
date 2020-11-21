@@ -5,7 +5,7 @@ slug: "108-StormAid"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["philadelphia", "Franklin", ]
+tags: ["philadelphia", "Penn", "designs"]
 math: false
 toc: true
 ---

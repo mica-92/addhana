@@ -5,7 +5,7 @@ slug: "13-letthemcry"
 description: "Reflexions"
 keywords: ["photo"]
 draft: false
-tags: ["palta-journal", "reflexions", "dukkha"]
+tags: ["palta-journal", "meditations", "dukkha"]
 math: true
 toc: true
 ---

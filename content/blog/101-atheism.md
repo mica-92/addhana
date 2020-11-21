@@ -5,7 +5,7 @@ slug: "101-atheism"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["atheism", "Penn", "reflections"]
+tags: ["atheism", "Penn", "meditations"]
 math: false
 toc: true
 ---

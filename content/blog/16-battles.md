@@ -5,7 +5,7 @@ slug: "16-battles"
 description: "Reflexions"
 keywords: ["memoir"]
 draft: false
-tags: ["palta-journal", "reflexions", "lessons"]
+tags: ["palta-journal", "meditations", "lessons"]
 math: true
 toc: true
 ---

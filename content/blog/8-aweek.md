@@ -5,7 +5,7 @@ slug: "8-aweek"
 description: "Blogging: a reflexion"
 keywords: ["experience"]
 draft: false
-tags: ["palta-journal", "blogging", "reflexions"]
+tags: ["palta-journal", "blogging", "meditations"]
 math: true
 toc: true
 ---

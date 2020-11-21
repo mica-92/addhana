@@ -5,7 +5,7 @@ slug: "99-fall"
 description: "Short post"
 keywords: ["lists"]
 draft: false
-tags: ["philadelphia", "Penn", "reflection"]
+tags: ["philadelphia", "Penn", "meditations"]
 math: false
 toc: true
 ---

@@ -5,7 +5,7 @@ slug: "19-IWMHB"
 description: "Reflexions"
 keywords: ["memoir"]
 draft: false
-tags: ["palta-journal", "reflexions", "books"]
+tags: ["palta-journal", "meditation", "books"]
 math: true
 toc: true
 ---

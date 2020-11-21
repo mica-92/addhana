@@ -5,7 +5,7 @@ slug: "15-decisions"
 description: "Reflexions"
 keywords: ["reflexions"]
 draft: false
-tags: ["palta-journal", "reflexions", "mind"]
+tags: ["palta-journal", "meditations", "mind"]
 math: true
 toc: true
 ---
