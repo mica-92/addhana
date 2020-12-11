@@ -9,11 +9,11 @@ tags: ["taylor", "Penn", "Phialdelphia", "favorites"]
 math: false
 toc: true
 ---
-After writing my senior thesis under the influence of *Lover*
+after writing my senior thesis under the influence of *Lover*.
 
-Living my first Penn semester with *folklore* on repeat.
+living my first Penn semester with *folklore* <a href="https://addhana.com/blog/folklore/">on repeat (forever)</a>.
 
-Crying with *the long pond sessions*
+crying with *the long pond sessions*
 
 *evermore* is the best way to share my return home. <br><br>
 
