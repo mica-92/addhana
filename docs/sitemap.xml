@@ -4,12 +4,32 @@
   
   <url>
     <loc>https://addhana.com/</loc>
-    <lastmod>2020-12-10T00:19:29-04:00</lastmod>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://addhana.com/tags/2021/</loc>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://addhana.com/blog/</loc>
-    <lastmod>2020-12-10T00:19:29-04:00</lastmod>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://addhana.com/blog/110-openfronts/</loc>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://addhana.com/tags/phialdelphia/</loc>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://addhana.com/tags/</loc>
+    <lastmod>2021-01-19T00:10:29-04:00</lastmod>
   </url>
   
   <url>
@@ -24,16 +44,6 @@
   
   <url>
     <loc>https://addhana.com/tags/penn/</loc>
-    <lastmod>2020-12-10T00:19:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://addhana.com/tags/phialdelphia/</loc>
-    <lastmod>2020-12-10T00:19:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://addhana.com/tags/</loc>
     <lastmod>2020-12-10T00:19:29-04:00</lastmod>
   </url>
   
@@ -859,10 +869,6 @@
   
   <url>
     <loc>https://addhana.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://addhana.com/blog/110/</loc>
   </url>
   
 </urlset>

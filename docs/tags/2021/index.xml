@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phialdelphia on Addhana</title>
-    <link>https://addhana.com/tags/phialdelphia/</link>
-    <description>Recent content in Phialdelphia on Addhana</description>
+    <title>2021 on Addhana</title>
+    <link>https://addhana.com/tags/2021/</link>
+    <description>Recent content in 2021 on Addhana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
     <lastBuildDate>Tue, 19 Jan 2021 00:10:29 -0400</lastBuildDate>
     
-	<atom:link href="https://addhana.com/tags/phialdelphia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://addhana.com/tags/2021/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,18 +19,6 @@
       
       <guid>https://addhana.com/blog/110-openfronts/</guid>
       <description>A list of side projects I started at some point and hope to continue in 2021  Personal Blog (addhana.com) or the website where you are reading this post: I won&amp;rsquo;t try to commit a blog a day because I don&amp;rsquo;t trust myself with that responsibility; I&amp;rsquo;ll simply try to keep it active and try to switch from guilt to fun. I&amp;rsquo;ve written quite a few posts in the last couple of weeks that I never pushed because I felt they were incomplete.</description>
-    </item>
-    
-    <item>
-      <title>evermore</title>
-      <link>https://addhana.com/blog/109-evermore/</link>
-      <pubDate>Thu, 10 Dec 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/blog/109-evermore/</guid>
-      <description>after writing my senior thesis under the influence of Lover.
-living my first Penn semester with folklore on repeat (forever).
-crying with the long pond sessions
-evermore is the best way to share my return home. </description>
     </item>
     
   </channel>
