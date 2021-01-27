@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made with 💚 by Mica, 2020</copyright>
-    <lastBuildDate>Tue, 19 Jan 2021 00:10:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:10:29 -0400</lastBuildDate>
     
 	<atom:link href="https://addhana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>2021</title>
       <link>https://addhana.com/tags/2021/</link>
-      <pubDate>Tue, 19 Jan 2021 00:10:29 -0400</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:10:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/2021/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>graduate</title>
+      <link>https://addhana.com/tags/graduate/</link>
+      <pubDate>Wed, 27 Jan 2021 00:10:29 -0400</pubDate>
+      
+      <guid>https://addhana.com/tags/graduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Phialdelphia</title>
       <link>https://addhana.com/tags/phialdelphia/</link>
-      <pubDate>Tue, 19 Jan 2021 00:10:29 -0400</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:10:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/phialdelphia/</guid>
       <description></description>
@@ -99,15 +108,6 @@
       <pubDate>Mon, 16 Nov 2020 00:19:29 -0400</pubDate>
       
       <guid>https://addhana.com/tags/meditations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graduate</title>
-      <link>https://addhana.com/tags/graduate/</link>
-      <pubDate>Sat, 24 Oct 2020 00:19:29 -0400</pubDate>
-      
-      <guid>https://addhana.com/tags/graduate/</guid>
       <description></description>
     </item>
     
